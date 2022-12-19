@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software developer Learning from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pra3496" alt="pra3496" /></a> </p>
+
 
 - 🌱 I’m currently learning **.NET Development**
 
@@ -16,7 +16,8 @@
 - 📄 Know about my experiences [https://pra3496.github.io/PranavW/](https://pra3496.github.io/PranavW/)
 
 - ⚡ Fun fact **I hate coffee**
-
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="100" src="https://github-profile-trophy.vercel.app/?username=pra3496" alt="pra3496" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
