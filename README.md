@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Pranav Waghmare</h1>
 <h3 align="center">A passionate Software developer Learning from India</h3>
 <img align="right" alt="Coding" width="400" src="https://st2.depositphotos.com/1802620/7368/v/950/depositphotos_73685249-stock-illustration-programmer-and-process-coding-programming.jpg" >
@@ -18,7 +18,8 @@
 
 - ⚡ Fun fact **I hate coffee**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="100" src="https://github-profile-trophy.vercel.app/?username=pra3496" alt="pra3496" /></a> </p>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="" height="100" src="https://github-profile-trophy.vercel.app/?username=pra3496" alt="pra3496" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
