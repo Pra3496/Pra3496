@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **piyushw55@gmail.com**
 
-- 📄 Know about my experiences [https://pra3496.github.io/PranavW/](https://pra3496.github.io/Portfolio/)
+- 📄 Know about my experiences [Pranav Waghmare](https://pra3496.github.io/Portfolio/)
 
 - ⚡ Fun fact **I hate coffee**
 <br><br>
