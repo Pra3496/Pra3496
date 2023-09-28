@@ -1,4 +1,7 @@
-![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
+<!-- ![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)  -->
+<img align="center" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="Image Description" >
+
+<!-- [This is a single-line comment](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 <h1 align="center">Hi 👋, I'm Pranav Waghmare</h1>
 <h3 align="center">A passionate Software developer Learning from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
